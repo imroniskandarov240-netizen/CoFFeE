@@ -587,3 +587,41 @@ color: #333D4B;
     margin-top: 30px;
     margin-left: 800px;
 }
+
+.bigcoffee{
+    margin-top: 650px;
+    margin-left: 120px;
+}
+
+.plan{
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 72px;
+/* identical to box height, or 100% */
+margin-top: -300px;
+margin-left: 160px;
+color: #FEFCF7;
+
+
+}
+
+.p17{
+    white-space-collapse: break-spaces;
+    color: gray;
+    margin-left: 160px;
+    margin-top: 30px;
+}
+
+.one{
+ 
+width: 1280px;
+height: 653px;
+left: 80px;
+top: 731px;
+background-color: #293039;
+margin-left: 120px;
+    margin-top: 300px;
+    border-radius: 20px;
+}
